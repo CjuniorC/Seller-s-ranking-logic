@@ -9,9 +9,9 @@ This project runs a simulation of a sales application that allows users to input
 
 ## How to run the application
 
-1. Clone this repository
+1. ``` git clone https://github.com/CjuniorC/Seller-s-ranking-logic.git ```
 
-2. ``` cd seller_ranking_logic ```
+2. ``` cd Seller-s-ranking-logic ```
 
 3. ``` yarn install ``` or ``` npm install ```
 
