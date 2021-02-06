@@ -1,4 +1,4 @@
-# Seller's ranking logic,
+# Seller's ranking logic
 
 This project runs a simulation of a sales application that allows users to input their sales and, as a result, respond with a list of sales ordered by sellers with the highest to lowest amount sold.
 
@@ -15,6 +15,8 @@ This project runs a simulation of a sales application that allows users to input
 
 3. ``` yarn install ``` or ``` npm install ```
 
-4. ``` cd dist ```
+4. ``` yarn build ``` or ``` npm run build ```
 
-5. ``` node main.js ```
+5. ``` cd dist ```
+
+6. ``` node main.js ```
